@@ -1,0 +1,28 @@
+img{
+    width: 45px;
+}
+header{
+    display: flex;
+    background: #24a2b8;
+}
+.logo{
+    padding: 5px;
+}
+.contenido{
+    flex: 1;
+    padding: 15px;
+    justify-content: center;
+    align-self: center;
+}
+h6{
+    margin-bottom: 0 !important;
+}
+
+.container{
+    padding-top: 15px;
+
+}
+
+.table-secondary{
+    cursor: pointer;
+}
